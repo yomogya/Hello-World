@@ -89,6 +89,9 @@ than from [Yahoo3](http://search.yahoo.com/ "Yahoo Search") or
 
 Emphasis
 *single asterisks*
+
 _single underscores_
+
 **double asterisks**
+
 __double underscores__
