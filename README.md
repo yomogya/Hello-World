@@ -42,3 +42,11 @@ This is a normal paragraph:
     <div class="footer">
         &copy; 2004 Foo Corporation
     </div>
+
+Horizontal Rules
+* * *
+***
+*****
+- - -
+---------------------------------------
+_ _ _
