@@ -62,6 +62,7 @@ This is [an example] [id] reference-style link.
 [id]: http://example.com/  "Optional Title Here"
 
 [Google1][]
+
 [Google1]: http://google.com/
 
 Visit [Daring Fireball][] for more information.
