@@ -86,3 +86,9 @@ I get 10 times more traffic from [Google2][] than from
 I get 10 times more traffic from [Google3](http://google.com/ "Google")
 than from [Yahoo3](http://search.yahoo.com/ "Yahoo Search") or
 [MSN3](http://search.msn.com/ "MSN Search").
+
+Emphasis
+*single asterisks*
+_single underscores_
+**double asterisks**
+__double underscores__
