@@ -88,6 +88,7 @@ than from [Yahoo3](http://search.yahoo.com/ "Yahoo Search") or
 [MSN3](http://search.msn.com/ "MSN Search").
 
 Emphasis
+
 *single asterisks*
 
 _single underscores_
@@ -95,3 +96,13 @@ _single underscores_
 **double asterisks**
 
 __double underscores__
+
+Code
+
+Use the `printf()` function.
+
+``There is a literal backtick (`) here.``
+
+Please don't use any `<blink>` tags.
+
+`&#8212;` is the decimal-encoded equivalent of `&mdash;`.
