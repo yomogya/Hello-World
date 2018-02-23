@@ -28,3 +28,17 @@ Lists
 888\. A list item with a code block:
 
         <code goes here>
+
+
+Code Blocks
+This is a normal paragraph:
+
+    This is a code block.
+
+<div class="footer">
+    &copy; 2004 Foo Corporation
+</div>
+
+    <div class="footer">
+        &copy; 2004 Foo Corporation
+    </div>
