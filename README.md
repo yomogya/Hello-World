@@ -57,8 +57,8 @@ This is [an example](http://example.com/ "Title") inline link.
 
 See my [About](/about/) page for details.
 
-This is [an example][id] reference-style link.
 This is [an example] [id] reference-style link.
+
 [id]: http://example.com/  "Optional Title Here"
 
 [Google1][]
@@ -66,6 +66,7 @@ This is [an example] [id] reference-style link.
 [Google1]: http://google.com/
 
 Visit [Daring Fireball][] for more information.
+
 [Daring Fireball]: http://daringfireball.net/
 
 I get 10 times more traffic from [Google] [1] than from
